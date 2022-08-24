@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shayna Bello</h1>
 <h3 align="center">A passionate future software developer and current student living in San Diego</h3>
 
-<iframe src="https://giphy.com/embed/YqQ3SQzAuag3fX8EN3" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ohsopaper-reaction-cute-mood-YqQ3SQzAuag3fX8EN3">via GIPHY</a></p>
-
 - 🔭 I’m currently working on **Local Park search and random generator**
-
 - 🌱 I’m currently learning **javascript**
-
 - 📫 How to reach me **snwogu@gmail.com**
-
 - 📄 Know about my experiences [Resume *](Resume *)
-
 - ⚡ Fun fact **I love hard fantasy novels and I play the Sims 4 regularly**
 
 <h3 align="left">Connect with me:</h3>
