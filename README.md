@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayna Bello</h1>
 <h3 align="center">A passionate future software developer and current student living in San Diego</h3>
 
-img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/YqQ3SQzAuag3fX8EN3" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ohsopaper-reaction-cute-mood-YqQ3SQzAuag3fX8EN3">via GIPHY</a></p>"
+<img align="right" alt="https://giphy.com/stickers/ohsopaper-reaction-cute-mood-YqQ3SQzAuag3fX8EN3">
 
 - 🔭 I’m currently working on **Local Park search and random generator**
 
